@@ -27,7 +27,7 @@ This repository contains the materials and code for ScamSentry, a web applicatio
 
 ## Model Training
 
-The fake review detection model was created by fine-tuning a BERT model on a dataset of fake reviews. (You may want to include more details about the training process, dataset used, etc.)
+The fake review detection model was created by fine-tuning a BERT model on a dataset of fake reviews.
 
 ## Reference taken from
 
